@@ -17,9 +17,9 @@ One of the following Discord users must also confirm publicly that they acknowle
 
 The people in the list above have authority to deem an action illegal and unaffected by the TOADW. 
 They are also authorized to edit the TOADW at any time. Should one of these people do something the majority of votes are against, that person loses all previously mentioned authority. 
-A "vote" as mentioned in the line above, is initiated by a public request, and acceptance by a signed server's owner. 
-Votes can not be initiated if only one person is listed above. 
-Votes happen by using the website *www.strawpoll.com*. 
+A "vote" is initiated by a public request and acceptance by a participating (signed) server's owner. 
+Such votes can not be initiated if only one person is listed above. 
+Votes should (but *must* not) happen on the website *www.strawpoll.com*. 
 
 ***Point 2 (Unsigning the TOADW):***
 If not ALL requirements mentioned in the TOADW are fulfilled by each server that has *declared war*, 
