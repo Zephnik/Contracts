@@ -9,8 +9,7 @@ In order for a server to *declare war*, the declaring server's **owner** sends a
 saying "**[server name] officially takes part in the [amount of previously finished wars, plus 1]. Discord War.**".
 The channels in which this message is published must be available to *all* members of the server. 
 The message sent inside the **declaring server** must include "**@everyone**". 
-Servers that have fewer members than the signed server with the lowest amount of members *or* more members than the signed server with the highest amount of members, 
-that server **must have** permission from all other servers that have *declared war* before *declaring war*. 
+All servers **must have** permission from all other servers that have *declared war* before *declaring war*. 
 
 One of the following Discord users must also confirm publicly that they acknowledge each *declaration of war*:
 @Zephnik#4897
@@ -36,9 +35,10 @@ These channels will serve as a tool to observe the amount of members in each ser
 If there are *one* or fewer servers that have signed the TOADW, that means no war is active yet. 
 If there were more servers involved in the war (that *surrendered*), the one remaining server *wins* the war instead. 
 There are two ways for a server to *win* a Discord war: 
-- Be the only server that is still noted in this document (under "Currently active wars"). To meet this condition, the same war must have had more than one server in it earlier. 
-- Be the first to reach an amount of members higher than *X*. 
-*X* is a number that is agreed on by the two first servers to *declare war*. If it is desired, *www.strawpoll.com* can again be used to decide what *X* is. 
+--- Be the only server that is still noted in this document (under "Currently active wars"). To meet this condition, the same active war must have had more than one server in it earlier. 
+--- Be the first server to reach an amount of members equal to or higher than \[current member amount, plus *X*]. 
+*X* is a number that is agreed on by the two first servers to *declare war*. If it is desired, *www.strawpoll.com* can again be used to decide what the *X* value equals. \[*X* plus a server's current members when the second 
+
 At least one of the people listed in point 1, lines 6-6 must confirm that a server has won a war before the server has officially won. 
 
 As soon as a server *wins* a Discord war, that war's name and result result is noted on the bottom of this document (as controlled by the people listed in point 1, lines 6-6). 
